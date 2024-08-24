@@ -25,6 +25,9 @@
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" target="_blank"/>
     </a>
 </div>
+<hr/>
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 
 
 
