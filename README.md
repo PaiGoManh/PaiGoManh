@@ -31,7 +31,7 @@
 <br>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma"/>
     </a>
 </div>
 
