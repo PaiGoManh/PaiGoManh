@@ -6,9 +6,9 @@
     </a>
 </h1>
 
+<h2>A passionate full-stack developer from India 🇮🇳</h2>
+
 <div align="center">
-    <h2>A passionate full-stack developer from India 🇮🇳</h2>
-    
     🔭 I’m currently working on **DApp Development** 
     
     🌱 I’m currently learning **Solidity**, **Next.js**, and **smart contract development**
