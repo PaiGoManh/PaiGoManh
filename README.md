@@ -6,8 +6,5 @@
     </a>
 </h1>
 
-<h2>About Me</h2>
-
-<p> I'm  a passionate full-stack developer with a strong foundation in the MERN stack (MongoDB, Express.js, React, Node.js) and expertise in building scalable web applications. I have a deep interest in modern web technologies and decentralized applications (DApps).</p>
 
 
