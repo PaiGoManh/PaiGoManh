@@ -14,9 +14,18 @@
     <p>💬 Ask me about the <strong>MERN stack</strong>, <strong>Next.js</strong>, <strong>Blockchain Development</strong>... or anything tech-related</p> <br>
 </div>
 
-<a href="">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
+    <a href="">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a> 
+    <a href="">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    
+</div>
 
 
 
