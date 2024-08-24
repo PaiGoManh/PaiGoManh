@@ -6,12 +6,11 @@
     </a>
 </h1>
 
-<h2>A passionate full-stack developer from India 🇮🇳</h2>
-
-<p>🔭 I’m currently working on DApp Development</p>
-
-<p>🌱 I’m currently learning Solidity, Next.js, and smart contract development</p>
-
-<p>💬 Ask me about the MERN stack, Next.js, blockchain development... or anything tech-related</p>
+<div align="center">
+    <h2>A passionate full-stack developer from India 🇮🇳</h2>
+    <p>🔭 I’m currently working on DApp Development</p>
+    <p>🌱 I’m currently learning Solidity, Next.js, and smart contract development</p>
+    <p>💬 Ask me about the MERN stack, Next.js, blockchain development... or anything tech-related</p>
+</div>
 
 
