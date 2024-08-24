@@ -27,7 +27,7 @@
 </div>
 <hr/>
 
-<h2 align="center"> Languages-Frameworks-Tools 💻 </h2>
+<h2 align="center"> 🛠️💻 Languages-Frameworks-Tools 💻🛠️ </h2>
 <br>
 <div align="center">
     <a href="https://skillicons.dev">
@@ -41,13 +41,10 @@
 <br>
 <hr/>
 <h2 align="center">⚜️ Stats ⚜️</h2>
-<a>
-    <img src="https://streak-stats.demolab.com?user=PaiGoManh&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=PaiGoManh&show_icons=true&theme=dark#gh-dark-mode-only"/>
-</a>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=PaiGoManh&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=PaiGoManh&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaiGoManh&layout=compact"/>
+<img src="https://github-profile-trophy.vercel.app/?PaiGoManh=ryo-ma&theme=juicyfresh"/>
 
 
 
