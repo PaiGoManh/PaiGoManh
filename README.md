@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=About.me&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
     </a>
     
 </div>
