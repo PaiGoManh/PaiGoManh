@@ -15,13 +15,13 @@
 </div>
 
 <div align="center">
-    <a href="">
+    <a href="mailto:rahulrahulsajeevan007@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a> 
-    <a href="">
+    <a href="https://www.linkedin.com/in/rahul-sajeevan-144849192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="">
+    <a href="https://paigomanh.github.io/">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
     </a>
     
