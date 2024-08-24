@@ -14,6 +14,10 @@
     <p>💬 Ask me about the <strong>MERN stack</strong>, <strong>Next.js</strong>, <strong>Blockchain Development</strong>... or anything tech-related</p> <br>
 </div>
 
+<a href="">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 
 
 
