@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-    <a href="mailto:rahulrahulsajeevan007@gmail.com">
+    <a href="mailto:rahulrahulsajeevan007@gmail.com target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a> 
     <a href="https://www.linkedin.com/in/rahul-sajeevan-144849192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
