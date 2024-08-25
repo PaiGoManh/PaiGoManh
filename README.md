@@ -41,12 +41,11 @@
 <br>
 <hr/>
 <h2 align="center">⚜️ Stats ⚜️</h2>
-<div align="center" display="flex">
-    <img src="https://streak-stats.demolab.com?user=PaiGoManh&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=PaiGoManh&show_icons=true&theme=dark#gh-dark-mode-only"/>
-    <br>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://streak-stats.demolab.com?user=PaiGoManh&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PaiGoManh&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />
 </div>
+<br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaiGoManh&layout=compact"/>
     <br>
