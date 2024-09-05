@@ -9,7 +9,7 @@
 <div align="center">
     <h2>A passionate full-stack developer from India 🇮🇳</h2>
     <br>
-    <p>🔭 I’m currently working on <strong>DApp Development</strong></p> <br>
+    <p>🔭 I’m currently working on <strong>Web3 Development</strong></p> <br>
     <p>🌱 I’m currently learning <strong>Solidity</strong>, <strong>Next.js</strong>, and <strong>smart contract development</strong></p> <br>
     <p>💬 Ask me about the <strong>MERN stack</strong>, <strong>Next.js</strong>, <strong>Blockchain Development</strong>... or anything tech-related</p> <br>
 </div>
