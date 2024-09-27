@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-    <h2>A passionate full-stack developer from India 🇮🇳</h2>
+    <h2>A passionate full-stack developer from Kerala,India 🇮🇳</h2>
     <br>
     <p>🔭 I’m currently working on <strong>Web3 Development</strong></p> <br>
     <p>🌱 I’m currently learning <strong>Solidity</strong>, <strong>Next.js</strong>, and <strong>smart contract development</strong></p> <br>
@@ -21,7 +21,7 @@
     <a href="https://www.linkedin.com/in/rahul-sajeevan-144849192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
     </a>
-    <a href="https://paigomanh.github.io/" target="_blank" rel="noopener noreferrer">
+    <a href="https://rahulsajeevan-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" target="_blank"/>
     </a>
 </div>
