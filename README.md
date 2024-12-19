@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" height="300" alt="Programming GIF">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Programming GIF">
     <h2>A passionate full-stack developer from Kerala,India 🇮🇳</h2>
     <br>
     <p>🔭 I’m currently working on <strong>Web3 Development</strong></p> <br>
