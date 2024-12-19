@@ -60,34 +60,31 @@
 
 <h3>🏆 POAP Achievements</h3>
 
-<table>
-  <tr>
     <!-- ETHIndia24 POAP -->
-    <td align="center">
+    <div align="center">
       <a href="https://collectors.poap.xyz/token/7271854" target="_blank" style="text-decoration: none;">
         <img src="https://assets.poap.xyz/6b34188b-3cc2-4580-9763-4263310d9443.png?size=xlarge" alt="ETHIndia24 POAP" width="120" style="border-radius: 10px;"/>
       </a>
       <p><strong>ETHIndia24 POAP</strong><br>
       Participated in one of the largest Ethereum developer hackathons.</p>
-    </td>
+    </div>
 
     <!-- Polkadot POAP -->
-    <td align="center">
+    <div align="center">
       <a href="https://collectors.poap.xyz/token/7271855" target="_blank" style="text-decoration: none;">
         <img src="https://assets.poap.xyz/0df1f8a7-880b-4052-8e0f-dd1f24fa3cd0.gif?size=xlarge" alt="Polkadot POAP" width="120" style="border-radius: 10px;"/>
       </a>
       <p><strong>Polkadot POAP</strong></p>
-    </td>
+    </div>
 
     <!-- The Graph POAP -->
-    <td align="center">
+    <div align="center">
       <a href="https://collectors.poap.xyz/token/7271887" target="_blank" style="text-decoration: none;">
         <img src="https://assets.poap.xyz/bb5d52a5-8080-4922-8d96-d19b80555830.gif?size=xlarge" alt="The Graph POAP" width="120" style="border-radius: 10px;"/>
       </a>
       <p><strong>The Graph POAP</strong></p>
-    </td>
-  </tr>
-</table>
+    </div>
+
 
 
 
