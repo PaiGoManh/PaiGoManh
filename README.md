@@ -75,7 +75,6 @@
 </div>
 <div>
      <p><strong>The Graph POAP</strong><br>
-      Participated in one of the largest Ethereum developer hackathons.</p>
       <a href="https://collectors.poap.xyz/token/7271887" target="_blank">
         <img src="https://assets.poap.xyz/bb5d52a5-8080-4922-8d96-d19b80555830.gif?size=xlarge" alt="The Graph POAP" width="120" style="border-radius: 10px;"/>
       </a>
