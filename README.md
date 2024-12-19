@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PaiGoManh.PaiGoManh" />
-<img src="[https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)" width="300" height="300" alt="Programming GIF">
+<img src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="300" height="300" alt="Programming GIF">
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
