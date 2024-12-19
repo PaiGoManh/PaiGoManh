@@ -5,8 +5,9 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=20DAF4&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+;I'm+Rahul+Sajeevan+" alt="Typing SVG" />
     </a>
 </h1>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" height="300" alt="Programming GIF">
+
 <div align="center">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" height="300" alt="Programming GIF">
     <h2>A passionate full-stack developer from Kerala,India 🇮🇳</h2>
     <br>
     <p>🔭 I’m currently working on <strong>Web3 Development</strong></p> <br>
