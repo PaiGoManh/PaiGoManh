@@ -61,7 +61,7 @@
 <h3>🏆 POAP Achievements</h3>
 
 <table>
-  <tr>
+  <tr style="display: flex; align-items: flex-start">
     <!-- ETHIndia24 POAP -->
     <td align="center">
       <a href="https://collectors.poap.xyz/token/7271854" target="_blank">
