@@ -80,8 +80,8 @@
   
    <!--The Graph POAP -->
   <div>
-    <a href="[https://collectors.poap.xyz/token/7271904](https://collectors.poap.xyz/token/7271904)" target="_blank" style="text-decoration: none;">
-      <img src="graph.gif" alt="The Graph POAP" width="120" style="border: 2px solid #FF6347; border-radius: 10px;"/>
+    <a href="https://collectors.poap.xyz/token/7271887" target="_blank" style="text-decoration: none;">
+      <img src="https://assets.poap.xyz/bb5d52a5-8080-4922-8d96-d19b80555830.gif?size=xlarge" alt="The Graph POAP" width="120" style="border: 2px solid #FF6347; border-radius: 10px;"/>
     </a>
     <p style="margin: 5px 0 0;"><strong>The Graph POAP</strong><br>
   </div>
