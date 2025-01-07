@@ -14,46 +14,39 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/PaiGoManh/PaiGoManh/output/github-snake.svg" />
 </picture>
 
-<br>
-<hr/>
-<h2 align="center">⚜️ Stats ⚜️</h2>
-<div align="center">
-        <img src="https://streak-stats.demolab.com?user=PaiGoManh&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-        <img src="https://github-readme-stats.vercel.app/api?username=PaiGoManh&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />
-</div>
-<br>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaiGoManh&layout=compact"/>
-    <br>
-</div>
-<br>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=PaiGoManh&theme=juicyfresh"/>
-    <br>
-</div>
+# POAP Achievement's
+<table>
+  <tr>
+    <td style="text-align: center; padding-right: 20px;">
+      <strong>ETHIndia24</strong><br>
+      <a href="https://collectors.poap.xyz/token/7271378" target="_blank">
+        <img src="https://assets.poap.xyz/6b34188b-3cc2-4580-9763-4263310d9443.png?size=xlarge" alt="POAP" width="120" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td style="text-align: center; padding-right: 20px;">
+      <strong>The Graph</strong><br>
+      <a href="https://collectors.poap.xyz/token/7271934" target="_blank">
+        <img src="https://assets.poap.xyz/bb5d52a5-8080-4922-8d96-d19b80555830.gif?size=xlarge" alt="POAP" width="120" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <strong>Polkadot</strong><br>
+      <a href="https://collectors.poap.xyz/token/7271445" target="_blank">
+        <img src="https://assets.poap.xyz/0df1f8a7-880b-4052-8e0f-dd1f24fa3cd0.gif?size=xlarge" alt="POAP" width="120" style="border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+# 🧱 Git Stats:
+<img src="https://streak-stats.demolab.com?user=PaiGoManh&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=PaiGoManh&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaiGoManh&layout=compact"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PaiGoManh&theme=juicyfresh"/>
 
 
-<h3>🏆 POAP Achievement's</h3>
 
-<div>
-     <p><strong>ETHIndia24 POAP</strong><br>
-      Participated in one of the largest Ethereum developer hackathons.</p>
-      <a href="https://collectors.poap.xyz/token/7271854" target="_blank">
-        <img src="https://assets.poap.xyz/6b34188b-3cc2-4580-9763-4263310d9443.png?size=xlarge" alt="ETHIndia24 POAP" width="120" style="border-radius: 10px;"/>
-      </a>
-</div>
-<div>
-     <p><strong>Polkadot POAP</strong><br>
-      <a href="https://collectors.poap.xyz/token/7271855" target="_blank">
-        <img src="https://assets.poap.xyz/0df1f8a7-880b-4052-8e0f-dd1f24fa3cd0.gif?size=xlarge" alt="Polkadot POAP" width="120" style="border-radius: 10px;"/>
-      </a>
-</div>
-<div>
-     <p><strong>The Graph POAP</strong><br>
-      <a href="https://collectors.poap.xyz/token/7271887" target="_blank">
-        <img src="https://assets.poap.xyz/bb5d52a5-8080-4922-8d96-d19b80555830.gif?size=xlarge" alt="The Graph POAP" width="120" style="border-radius: 10px;"/>
-      </a>
-</div>
+
 
 
      
