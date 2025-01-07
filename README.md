@@ -1,7 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PaiGoManh.PaiGoManh" />
-<div align="center">
-<img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
-</div>
+<img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
