@@ -1,33 +1,33 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PaiGoManh.PaiGoManh" />
 <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=20DAF4&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+;I'm+Rahul+Sajeevan+" alt="Typing SVG" />
-    </a>
-</h1>
+# Hello World!, I'm Rahul Sajeevan, a Full Stack Blockchain Developer 👋🏼:
+🛜 I’m currently working on <strong>Web3 Development</strong><br> <br>👨🏼‍🎓 A passionate full-stack developer from Kerala,India 🇮🇳<br>🌱 I’m currently learning <strong>Solidity</strong>, <strong>Next.js</strong>, and <strong>smart contract development</strong><br>💬 Ask me about the <strong>MERN stack</strong>, <strong>Next.js</strong>, <strong>Blockchain Development</strong>... or anything tech-related
 
-<div align="center">
-    <h2>A passionate full-stack developer from Kerala,India 🇮🇳</h2>
-    <br>
-    <p>🔭 I’m currently working on <strong>Web3 Development</strong></p> <br>
-    <p>🌱 I’m currently learning <strong>Solidity</strong>, <strong>Next.js</strong>, and <strong>smart contract development</strong></p> <br>
-    <p>💬 Ask me about the <strong>MERN stack</strong>, <strong>Next.js</strong>, <strong>Blockchain Development</strong>... or anything tech-related</p> <br>
-</div>
+# 💻 Tech Stack:
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  ![Ethereum](https://img.shields.io/badge/Ethereum-%232C3E50.svg?style=for-the-badge&logo=ethereum&logoColor=white)  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  ![HyperLedger](https://img.shields.io/badge/HyperLedger-%230099CC.svg?style=for-the-badge&logo=hyperledger&logoColor=white)  ![Hardhat](https://img.shields.io/badge/Hardhat-%23FFC107.svg?style=for-the-badge&logo=hardhat&logoColor=black)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![IOTA](https://img.shields.io/badge/IOTA-%2300524E.svg?style=for-the-badge&logo=iota&logoColor=white)
 
-<div align="center">
-    <a href="mailto:rahulrahulsajeevan007@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a> 
-    <a href="https://www.linkedin.com/in/rahul-sajeevan-144849192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://rahulsajeevan-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-    </a>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <hr/>
-
 <h2 align="center"> 🛠️💻 Languages-Frameworks-Tools 💻🛠️ </h2>
 <br>
 <div align="center">
