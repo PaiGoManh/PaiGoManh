@@ -19,19 +19,19 @@
   <tr>
     <td style="text-align: center; padding-right: 20px;">
       <strong>ETHIndia24</strong><br>
-      <a href="https://collectors.poap.xyz/token/7271378" target="_blank">
+      <a href="https://collectors.poap.xyz/token/7271854" target="_blank">
         <img src="https://assets.poap.xyz/6b34188b-3cc2-4580-9763-4263310d9443.png?size=xlarge" alt="POAP" width="120" style="border-radius: 10px;" />
       </a>
     </td>
     <td style="text-align: center; padding-right: 20px;">
       <strong>The Graph</strong><br>
-      <a href="https://collectors.poap.xyz/token/7271934" target="_blank">
+      <a href="https://collectors.poap.xyz/token/7271887" target="_blank">
         <img src="https://assets.poap.xyz/bb5d52a5-8080-4922-8d96-d19b80555830.gif?size=xlarge" alt="POAP" width="120" style="border-radius: 10px;" />
       </a>
     </td>
     <td style="text-align: center;">
       <strong>Polkadot</strong><br>
-      <a href="https://collectors.poap.xyz/token/7271445" target="_blank">
+      <a href="https://collectors.poap.xyz/token/7271855" target="_blank">
         <img src="https://assets.poap.xyz/0df1f8a7-880b-4052-8e0f-dd1f24fa3cd0.gif?size=xlarge" alt="POAP" width="120" style="border-radius: 10px;" />
       </a>
     </td>
