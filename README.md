@@ -42,17 +42,22 @@
 
 <table>
   <tr>
-    <td style="text-align: center; padding-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=PaiGoManh&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />
+    <td style=" padding-right: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=PaiGoManh&show_icons=true&theme=dark#gh-dark-mode-only" 
+           alt="GitHub Stats" 
+           style="width: 500px; height: 250px;" />
     </td>
     <td style="text-align: center; padding-right: 20px;">
-      <img src="https://streak-stats.demolab.com?user=PaiGoManh&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+      <img src="https://streak-stats.demolab.com?user=PaiGoManh&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+           style="width: 500px; height: 250px;" />
     </td>
     <td style="text-align: center;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaiGoManh&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaiGoManh&layout=compact" 
+           style="width: 400px; height: 200px;" />
     </td>
   </tr>
 </table>
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=PaiGoManh&theme=juicyfresh"/>
 
