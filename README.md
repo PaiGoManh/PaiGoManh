@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" alt="GitHubBanner" width="100%"  />
 
 # Hello World!, I'm Rahul Sajeevan, a Full Stack Blockchain Developer 👋🏼:
-🛜 I’m currently working on <strong>Web3 Development</strong><br> <br>👨🏼‍🎓 A passionate full-stack developer from Kerala,India 🇮🇳<br>🌱 I’m currently learning <strong>Solidity</strong>, <strong>Next.js</strong>,,<strong>smart contract development</strong> and <strong>Blockchain - Crypto</strong> applications<br>💬 Ask me about <strong>MERN stack</strong>, <strong>Blockchain Development</strong>... or anything tech-related<br> 🧑‍💻 My Services(What i offer) :- <strong>Frontend Development</strong>, <strong>Backend Development</strong>, <strong>Blockchain Integration</strong>,<strong>Hyperledger Fabric Networks</strong>, <strong>Smart Contract Development</strong>
+🛜 I’m currently working on <strong>Web3 Development</strong><br> <br>👨🏼‍🎓 A passionate full-stack developer from Kerala,India 🇮🇳<br>🌱 I’m currently learning  <strong>Solidity</strong>, <strong>Next.js</strong>,,<strong>smart contract development</strong> and <strong>Blockchain - Crypto</strong> applications<br>💬 Ask me about <strong>MERN stack</strong>, <strong>Blockchain Development</strong>... or anything tech-related<br> 🧑‍💻 My Services(What i offer) :- <strong>Frontend Development</strong>, <strong>Backend Development</strong>, <strong>Blockchain Integration</strong>,<strong>Hyperledger Fabric Networks</strong>, <strong>Smart Contract Development</strong>
 
 # 💻 Tech Stack:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
