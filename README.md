@@ -37,6 +37,24 @@
   </tr>
 </table>
 
+# 🏆 SBT Achievements
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+
+  <!-- ZeroCheck SBT -->
+  <div style="margin-bottom: 20px;">
+    <a href="" target="_blank" style="text-decoration: none;">
+      <img src="https://api.devfolio.co/api/ipfs/QmSBcG2AsPwF8MMG4Fcmu2T7JBgVUKFPJXMNvpYnvNJqW6" alt="ZeroCheck SBT" width="120" style="border: 2px solid #FFC700; border-radius: 10px;"/>
+    </a>
+    <p style="margin: 5px 0 0;"><strong>ZeroCheck SBT</strong><br>
+     This SBT celebrates my project ZeroCheck at ETHIndia 2024. This is proof that they were there when Ethereum's future got a little wider, a little wilder, and infinitely more   interesting. The game's just getting started.
+    </p>
+     You Guys can see the EAS attestation details <a href="https://base.easscan.org/attestation/view/0xe77dd5f37c8467e9d08a856c7e20c978baa6d0a05b32be53378bad17bec434a2" target="_blank" style="text-decoration: none;">Here  </a>
+  </div>
+  </div>
+
+</div>
+
 # 🧱 Git Stats:
 
 <table>
