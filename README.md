@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td style="text-align: center; padding-right: 20px;">
-      <strong>ETHIndia24</strong><br>
+      <strong>ETHIndia24</strong> <br>
       <a href="https://collectors.poap.xyz/token/7271854" target="_blank">
         <img src="https://assets.poap.xyz/6b34188b-3cc2-4580-9763-4263310d9443.png?size=xlarge" alt="ETHINDIA POAP" width="120" style="border-radius: 10px;" />
       </a>
