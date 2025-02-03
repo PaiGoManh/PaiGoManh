@@ -44,12 +44,12 @@
   <!-- ZeroCheck SBT -->
   <div style="margin-bottom: 20px;">
     <a href="" target="_blank" style="text-decoration: none;">
-      <img src="Ethndia.gif" alt="ZeroCheck SBT" width="120" style="border: 2px solid #FFC700; border-radius: 10px;"/>
+      <img src="Ethndia.gif" alt="ZeroCheck SBT" width="200" style="border: 2px solid #FFC700; border-radius: 10px;"/>
     </a>
     <p style="margin: 5px 0 0;"><strong>ZeroCheck SBT</strong><br>
      This SBT celebrates my project ZeroCheck at ETHIndia 2024. This is proof that they were there when Ethereum's future got a little wider, a little wilder, and infinitely more   interesting. The game's just getting started.
     </p>
-     You Guys can see the EAS attestation details <a href="https://base.easscan.org/attestation/view/0xe77dd5f37c8467e9d08a856c7e20c978baa6d0a05b32be53378bad17bec434a2" target="_blank" style="text-decoration: none;">Here  </a>
+<!--      You Guys can see the EAS attestation details <a href="https://base.easscan.org/attestation/view/0xe77dd5f37c8467e9d08a856c7e20c978baa6d0a05b32be53378bad17bec434a2" target="_blank" style="text-decoration: none;">Here  </a> -->
   </div>
   </div>
 
