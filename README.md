@@ -44,7 +44,7 @@
   <!-- ZeroCheck SBT -->
   <div style="margin-bottom: 20px;">
     <a href="" target="_blank" style="text-decoration: none;">
-      <img src="Ethindia.gif" alt="ZeroCheck SBT" width="120" style="border: 2px solid #FFC700; border-radius: 10px;"/>
+      <img src="Ethndia.gif" alt="ZeroCheck SBT" width="120" style="border: 2px solid #FFC700; border-radius: 10px;"/>
     </a>
     <p style="margin: 5px 0 0;"><strong>ZeroCheck SBT</strong><br>
      This SBT celebrates my project ZeroCheck at ETHIndia 2024. This is proof that they were there when Ethereum's future got a little wider, a little wilder, and infinitely more   interesting. The game's just getting started.
