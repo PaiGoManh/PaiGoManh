@@ -23,7 +23,7 @@
       </a>
     </td>
     <td style="text-align: center; padding-right: 20px;">
-      <strong>The Graph</strong><br>
+      <strong>The Graph </strong><br>
       <a href="https://collectors.poap.xyz/token/7271887" target="_blank">
         <img src="https://assets.poap.xyz/bb5d52a5-8080-4922-8d96-d19b80555830.gif?size=xlarge" alt="GRAPH POAP" width="120" style="border-radius: 10px;" />
       </a>
